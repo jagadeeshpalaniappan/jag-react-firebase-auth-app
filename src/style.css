@@ -1,0 +1,21 @@
+h1, p {
+  font-family: Lato;
+}
+
+.nav {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-item {
+  margin: 0 1em;
+}
+.nav-item .active {
+  color: salmon;
+}
+
+.error {
+  color: red;
+}
